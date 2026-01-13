@@ -12,7 +12,7 @@
     },
     {
       "id": "5b8a",
-      "conteudo": "Na minha máquina funciona!",
+      "conteudo": "Na minha máquina funciona! Sempre",
       "autoria": "Dev"
     },
     {
@@ -69,6 +69,11 @@
       "id": "499a",
       "conteudo": "          testando",
       "autoria": "andre"
+    },
+    {
+      "id": "bb21",
+      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "autoria": "Mestre Yoda 2"
     }
   ]
 }
